@@ -8,3 +8,5 @@ https://dl.fbaipublicfiles.com/segment_anything_2/072824/sam2_hiera_base_plus.pt
 https://dl.fbaipublicfiles.com/segment_anything_2/072824/sam2_hiera_large.pt
 
 Create the virtual environment for local testing and install the requirements.txt file
+
+Ignore the unimportant files for docker using .dockerignore file
